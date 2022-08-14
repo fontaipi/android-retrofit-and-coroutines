@@ -1,6 +1,6 @@
 ﻿# android-retrofit-and-coroutines
 
-This projects show how to use Retrofit and Coroutines for a Jetpack Compose App.
+This projects shows how to use Retrofit and Coroutines in a Jetpack Compose App.
 
 ## Dependencies :
 ```kotlin
